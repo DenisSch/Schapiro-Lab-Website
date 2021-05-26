@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Twitter Feed
 subtitle:
 
 content:
@@ -22,3 +22,4 @@ design:
   view: 3
   columns: "1"
 ---
+<a class="twitter-timeline" href="https://twitter.com/DenisSchapiro?ref_src=twsrc%5Etfw">Tweets by DenisSchapiro</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
