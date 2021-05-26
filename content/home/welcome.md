@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Schapiro Lab in Heidelberg focuses on spatial omics methods and analysis.  
+The Schapiro Lab in Heidelberg focuses on spatial omics and digital pathology.  
